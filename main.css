@@ -1,0 +1,11 @@
+
+
+body {
+    background: #B40486;
+}
+
+@media (max-width: 600px) {
+    body {
+        background: black;
+    }
+}
